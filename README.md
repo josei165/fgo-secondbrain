@@ -90,4 +90,4 @@ A documentação oficial deve ser priorizada quando fornecer diretamente a infor
 
 ## Notebook
 
-**Link:** [COLE AQUI O LINK DO NOTEBOOK COMPARTILHADO]
+**Link:** [LINK DO NOTEBOOK COMPARTILHADO](https://notebook.google.com/notebook/c4d2226b-6bb5-4ba8-98aa-db1ce7d890e7)
