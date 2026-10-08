@@ -40,23 +40,31 @@ A documentação oficial deve ser priorizada quando fornecer diretamente a infor
 
 ## Perguntas realizadas
 
-### 1. Como funciona o fortalecimento de um Servant em Fate/Grand Order?
+### 1. Como funciona o fortalecimento de um Servant em Fate/Grand Order? mande apenas 1 paragráfo.
 
-**Resposta:** [cole aqui a resposta obtida no notebook]
+**Resposta:** O fortalecimento de um Servant em *Fate/Grand Order* é realizado por meio das opções do menu **Enhance**[1][2], combinando o aumento de nível base com cartões de experiência (**Embers**) e itens **Fou** para elevar HP e ATK[1][2], a expansão do limite de nível (**Ascension**) com materiais específicos e QP[1][3], a elevação da eficácia e redução de recarga das **Skills** ativas[1][4], a fusão de cópias idênticas para fortificar o **Noble Phantasm**[1][5] e a **Palingenesis**, que consome **Holy Grails** para expandir o nível máximo do personagem até o nível 100[1][6].
 
-**Fonte(s):** [indique as fontes citadas pelo notebook]
+**Fonte(s):** 
 
-### 2. Qual é o nível máximo inicial de um Servant de 5 estrelas e como o limite aumenta através das Ascensions?
+- [1] Fate/Grand Order Official USA — How to Play
+- [2,3,4,5,6] GamePress — Leveling and Upgrades
 
-**Resposta:** [cole aqui a resposta obtida no notebook]
+### 2. Qual é o nível máximo inicial de um Servant de 5 estrelas e como o limite aumenta através das Ascensions? responda em apenas 1 parágrafo
 
-**Fonte(s):** [indique as fontes citadas pelo notebook]
+**Resposta:** O nível máximo inicial de um Servant de 5 estrelas é 50[1]. Esse limite pode ser expandido através do menu **Enhance &gt; Ascension** em até 4 etapas, que ficam disponíveis sempre que o Servant alcança o limite de nível atual e exigem o consumo de QP, peças ou monumentos de classe e materiais de elevação[1][2]. A cada Ascensão realizada, o limite máximo (*level cap*) do Servant é elevado em 10 níveis[1][2], progredindo para o nível 60 na 1ª Ascensão, 70 na 2ª, 80 na 3ª e atingindo o limite máximo final de 90 na 4ª Ascensão[1].
+**Fonte(s):** 
 
-### 3. O que acontece quando aumento uma Skill para o nível 6 e para o nível 10?
+- [1] GamePress — Leveling and Upgrades
+- [2] Fate/Grand Order Official USA — How to Play
 
-**Resposta:** [cole aqui a resposta obtida no notebook]
+### 3. O que acontece quando aumento uma Skill para o nível 6 e para o nível 10? responda em apenas 1 parágrafo.
 
-**Fonte(s):** [indique as fontes citadas pelo notebook]
+**Resposta:** Ao aumentar o nível de uma **Skill** no menu **Enhance &gt; Skills**, a eficácia de seus efeitos é aprimorada e o seu tempo de recarga (*cooldown*) é reduzido em **1 turno** ao atingir o nível 6 e em mais **1 turno** ao alcançar o nível 10, totalizando uma redução de 2 turnos no nível máximo[1][2].
+
+**Fonte(s):** 
+
+- [1] Fate/Grand Order Official USA — How to Play
+- [2] GamePress — Leveling and Upgrades
 
 ### 4. O que acontece quando aumento o nível do Noble Phantasm de um Servant?
 
