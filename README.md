@@ -87,7 +87,6 @@ A documentação oficial deve ser priorizada quando fornecer diretamente a infor
 
 * `materiais/` — materiais produzidos durante o projeto, como mapa mental e slides.
 * `evidencias/` — capturas de tela das perguntas e respostas do notebook.
-* `notebook-link.txt` — link para o notebook compartilhado.
 
 ## Notebook
 
