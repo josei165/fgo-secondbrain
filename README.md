@@ -78,12 +78,6 @@ A documentação oficial deve ser priorizada quando fornecer diretamente a infor
 
 **Fonte(s):** [indique as fontes citadas pelo notebook]
 
-### 6. Explique como fortalecer um Servant e indique qual fonte sustenta cada informação apresentada.
-
-**Resposta:** [cole aqui a resposta obtida no notebook]
-
-**Fonte(s):** [indique as fontes citadas pelo notebook]
-
 ## Materiais do projeto
 
 * `fontes/` — fontes utilizadas pelo notebook.
