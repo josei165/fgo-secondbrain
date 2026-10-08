@@ -12,7 +12,7 @@ A documentação oficial do Fate/Grand Order foi utilizada como principal fonte 
 
 Ela contém informações sobre o menu Enhance, uso de Embers para aumentar níveis, Hero Crystals, fortalecimento de Skills, fortalecimento de Craft Essences e Palingenesis.
 
-**Fonte:** Fate/Grand Order Official USA — How to Play
+**Fonte:** [Fate/Grand Order Official USA — How to Play](https://fate-go.us/howtoplay/images/How_to_Play_Fate_Grand_Order_Official_USA_Website.pdf?utm_source=chatgpt.com)
 
 ### GamePress — Leveling and Upgrades
 
@@ -20,13 +20,13 @@ A GamePress foi utilizada como fonte complementar para informações detalhadas 
 
 A página apresenta os limites de nível por raridade, progressão através de Ascension, materiais necessários, Noble Phantasm e Skill Enhancement.
 
-**Fonte:** GamePress — Leveling and Upgrades
+**Fonte:** [GamePress — Leveling and Upgrades](https://fgo.gamepress.gg/leveling-and-upgrades)
 
 ### GamePress — Materials
 
 A seção de materiais da GamePress foi utilizada para consultar a função dos diferentes materiais e suas relações com Ascension e Skill Enhancement.
 
-**Fonte:** GamePress — Materials
+**Fonte:** [GamePress — Materials](https://grandorder.gamepress.gg/c/materials)
 
 ## Diretriz de comportamento do notebook
 
@@ -85,7 +85,6 @@ A documentação oficial deve ser priorizada quando fornecer diretamente a infor
 
 ## Materiais do projeto
 
-* `fontes/` — fontes utilizadas pelo notebook.
 * `materiais/` — materiais produzidos durante o projeto, como mapa mental e slides.
 * `evidencias/` — capturas de tela das perguntas e respostas do notebook.
 * `notebook-link.txt` — link para o notebook compartilhado.
