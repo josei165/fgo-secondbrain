@@ -66,17 +66,22 @@ A documentação oficial deve ser priorizada quando fornecer diretamente a infor
 - [1] Fate/Grand Order Official USA — How to Play
 - [2] GamePress — Leveling and Upgrades
 
-### 4. O que acontece quando aumento o nível do Noble Phantasm de um Servant?
+### 4. O que acontece quando aumento o nível do Noble Phantasm de um Servant? responda em apenas 1 parágrafo.
 
-**Resposta:** [cole aqui a resposta obtida no notebook]
+**Resposta:** Ao aumentar o nível do **Noble Phantasm (NP)** de um Servant — realizado ao fundir cópias idênticas do mesmo personagem no menu **Enhance &gt; Noble Phantasm** até o limite de nível 5 —, a eficácia do efeito primário da habilidade é fortalecida, aumentando por exemplo o dano causado pelo ataque[1][2]. Além disso, a evolução do NP expande a capacidade máxima de carga da barra de NP para **200% no nível 2** e até **300% no nível 5**[1], o que permite ativar um efeito bônus conhecido como **Overcharge** quando o NP é disparado com a barra acumulada nesses patamares superiores[1][2].
 
-**Fonte(s):** [indique as fontes citadas pelo notebook]
+**Fonte(s):**
 
-### 5. Para que servem os materiais de Ascension e Skill Enhancement?
+- [1] Fate/Grand Order Official USA — How to Play
+- [2] GamePress — Leveling and Upgrades
 
-**Resposta:** [cole aqui a resposta obtida no notebook]
+### 5. Para que servem os materiais de Ascension e Skill Enhancement? responda em apenas 1 parágrafo.
 
-**Fonte(s):** [indique as fontes citadas pelo notebook]
+**Resposta:** Os materiais de **Ascension** (como peças, monumentos de classe e itens de elevação) servem para expandir o limite máximo de nível (*level cap*) dos Servants em até 4 etapas através do menu **Enhance &gt; Ascension**[1][2]. Já os materiais de **Skill Enhancement** (combinados a gemas de classe e QP) são utilizados no menu **Enhance &gt; Skill** para elevar o nível das habilidades ativas dos Servants, aumentando a eficácia dos seus efeitos e reduzindo o tempo de recarga (*cooldown*) em 1 turno ao alcançarem os níveis 6 e 10[1][3].
+
+**Fonte(s):**
+- [1] Fate/Grand Order Official USA — How to Play
+- [2,3] GamePress — Leveling and Upgrades
 
 ## Materiais do projeto
 
